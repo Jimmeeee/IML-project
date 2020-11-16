@@ -1,1 +1,1 @@
-# IML-project
+# Introduction to Machine Learning - project
